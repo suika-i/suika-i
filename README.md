@@ -1,3 +1,4 @@
+
 「**井上すいか🍉**」と申します。
 趣味でゲーム・ツールを作って公開しています。対話型AIを使用してアイデアを形にしてもらっています。プログラミング知識はありません。お気軽に遊んでもらえたら嬉しいです。不具合のご指摘、ご感想もいただけるとなお嬉しいです。よろしくお願いいたします
 。[X：@suika_2026](https://x.com/suika_2026)
@@ -10,3 +11,6 @@
 
 
 
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=suika-i&color=brightgreen" alt="Profile Views" title="誰かは分からないけど見に来てくれた のべ人数">
+</div>
