@@ -6,7 +6,7 @@
 
 - 01 「[ぺたぺたモザイク（タイル式ぬりえツール）](https://suika-i.github.io/peta-peta-mosaic/)」
 <br>13色のタイルをぺたぺたと配置してモザイク画を作る遊びです。自分で用意した下絵を読み込んでください。タイルの配置を記憶しておけるセーブ機能付き。できあがったモザイク画は出力保存できます。
-<img width="50%" height="50%" alt="サムネイル" src="https://github.com/user-attachments/assets/3e1cb3b4-8e9a-480b-9652-a41408e3b4ed" /><br>
+<img width="50%" height="50%" alt="サムネイル" src="https://github.com/user-attachments/assets/3e1cb3b4-8e9a-480b-9652-a41408e3b4ed" /><br><br><br><br><br>
 
 - 02 「[画像トリミングツール](https://suika-i.github.io/Trimming-tool/)」
 <br>画像を読み込み直さなくても続けてトリミングができるツールです。透過処理・拡大縮小・回転・明度・色彩・全体透明度の変更ができます。
