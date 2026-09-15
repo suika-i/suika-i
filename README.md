@@ -9,7 +9,7 @@
 <img width="50%" height="50%" alt="サムネイル" src="https://github.com/user-attachments/assets/3e1cb3b4-8e9a-480b-9652-a41408e3b4ed" /><br><br><br><br>
 
 - 02 「[画像トリミングツール](https://suika-i.github.io/Trimming-tool/)」
-<br>1枚の画像から 切り抜く場所を変えて 続けて何枚も保存できます。そのたびに画像を読み込み直す必要はありません。透過処理・拡大縮小・回転・明度・色彩・全体透明度の変更ができます。
+<br>１枚の画像から、読み込み直さずに複数の箇所を続けて切り抜き保存できます。透過処理・拡大縮小・回転・明度・色彩・全体透明度の変更ができます。
 <img width="50%" height="50%" alt="サムネイル" src="https://github.com/user-attachments/assets/f591abd1-d67c-413a-8d4f-fd7535221c0e" />
 
 
